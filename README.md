@@ -45,6 +45,7 @@ In this project I create a awesome side bar menu for using in my future projects
 
 <!-- SCREENSHOTS -->
 ## 📸  SCREENSHOTS <a name="screenshots"></a>
+<img src="https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/blob/main/readme-assets/simulator-step1.png" height="300">                         <img src="https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/blob/main/readme-assets/simulator-step2.png" height="300">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
