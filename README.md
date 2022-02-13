@@ -92,8 +92,7 @@ So that you can run the project follow this steps:
     - [X] Email
     - [X] LinkedIn
     - [X] Instagram
-- [ ] Complete usage section
-- [ ] Add project
+- [X] Add project
 
 See the [open issues](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/issues) for a full list of proposed features (and known issues).
 
