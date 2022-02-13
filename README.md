@@ -19,6 +19,11 @@ In this project I create a awesome side bar menu for using in my future projects
 ![GitHub](https://img.shields.io/github/issues/PaoloProdossimoLopes/swift-sidebar-menu-example?style=flat-square)
 
 
+<!-- ACTIONS -->
+## 🔎  ACTIONS
+[REPORT ISSUE](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/issues)
+
+[REQUEST FEATURE](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/pulls)
 
 <!-- Index -->
 ## 🔢  INDEX 
