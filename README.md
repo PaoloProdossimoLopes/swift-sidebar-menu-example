@@ -77,10 +77,9 @@ So that you can run the project follow this steps:
 <!-- USAGE EXAMPLES -->
 <!--
 ## 🪄 USAGE <a name="usage"></a>
--->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
 
 
 <!-- ROADMAP -->
