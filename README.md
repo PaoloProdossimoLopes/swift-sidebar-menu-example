@@ -63,7 +63,7 @@ In this project I create a awesome side bar menu for using in my future projects
 ```sh
 git clone https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example.git
 ```
-3. Open the file with extension .xcproj inside the folder project.
+3. Open the file with extension .xcodeproj inside the folder project.
    
 ### RUN
 So that you can run the project follow this steps:
