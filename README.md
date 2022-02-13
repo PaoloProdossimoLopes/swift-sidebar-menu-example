@@ -14,20 +14,19 @@ In this project I create a awesome side bar menu for using in my future projects
 
 
 <!-- INFO BADGES -->
-![GitHub](https://img.shields.io/github/forks/PaoloProdossimoLopes/swift-sidebar-menu-example?style=flat-square)
-![GitHub](https://img.shields.io/github/stars/PaoloProdossimoLopes/swift-sidebar-menu-example?style=flat-square)
-![GitHub](https://img.shields.io/github/issues/PaoloProdossimoLopes/swift-sidebar-menu-example?style=flat-square)
-
+[![GitHub](https://img.shields.io/github/forks/PaoloProdossimoLopes/swift-sidebar-menu-example?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example)
+[![GitHub](https://img.shields.io/github/stars/PaoloProdossimoLopes/swift-sidebar-menu-example?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example)
+[![GitHub](https://img.shields.io/github/issues/PaoloProdossimoLopes/swift-sidebar-menu-example?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/issues)
+[![GitHub](https://img.shields.io/github/issues-pr/PaoloProdossimoLopes/swift-sidebar-menu-example?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/pulls)
 
 
 
 <!-- ACTIONS -->
+<!-- Unsed
 ## 🔎  ACTIONS
-[REPORT ISSUE](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/issues)
-
-[REQUEST FEATURE](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/pulls)
-
-
+[![REPORT ISSUE](https://img.shields.io/badge/-⚠️_REPORT_ISSUE-grey?style=flat-square&logo=pull_request&logoColor=white)](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/issues)
+[![PULL REQUEST](https://img.shields.io/badge/-⤴️_PULL_REQUEST-grey?style=flat-square&logo=pull_request&logoColor=white)](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/pulls)
+-->
 
 
 <!-- Index -->
@@ -36,11 +35,11 @@ In this project I create a awesome side bar menu for using in my future projects
 2. [GETTING STARTED](#getting-started)
     - [PREREQUISITES](#prerequisites)
     - [INSTALATION](#instalation)
-    - [BUILD](#build)
-4. [USAGE](#usage)
-5. [CONTRIBUTING](#contributing)
-6. [LICENSE](#license)
-7. [CONTACT](#contact)
+    - [RUN](#run)
+<!-- 4. [USAGE](#usage) -->
+3. [CONTRIBUTING](#contributing)
+4. [LICENSE](#license)
+5. [CONTACT](#contact)
 
 
 
@@ -66,7 +65,7 @@ git clone https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example.git
 ```
 3. Open the file with extension .xcproj inside the folder project.
    
-### BUILD
+### RUN
 So that you can run the project follow this steps:
 1. Choose a simulator 
 2. Then click on the **COMMAND + R** keys or press the ▶︎ (icon at the top of the IDE).
@@ -76,7 +75,9 @@ So that you can run the project follow this steps:
 
 
 <!-- USAGE EXAMPLES -->
+<!--
 ## 🪄 USAGE <a name="usage"></a>
+-->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -121,7 +122,7 @@ Don't forget to give the project a star! Thanks again!
 ## 📃  LICENSE <a name="license"></a>
 The MIT license was used in this project.
 
-![GitHub](https://img.shields.io/github/license/PaoloProdossimoLopes/swift-sidebar-menu-example?style=flat-square)
+![GitHub](https://img.shields.io/github/license/PaoloProdossimoLopes/swift-sidebar-menu-example?color=black&style=flat-square)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,9 +130,19 @@ The MIT license was used in this project.
 
 <!-- CONTACT -->
 ## ✉️  CONTACT <a name="contact"></a>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)<br/>
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)<br/>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)<br/>
-[![Medium](https://img.shields.io/badge/-medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@pprodossimo)
+[![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ios.dev.br/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pprodossimo)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!--  NOTES
+find for badges in 
+https://shields.io/category/build
+or 
+https://github.com/PaoloProdossimoLopes/Badges4-README.md-Profile
+-->
