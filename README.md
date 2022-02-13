@@ -60,7 +60,7 @@ git clone https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example.git
 So that you can run the project follow this steps:
 1. Choose a simulator 
 2. Then click on the **COMMAND + R** keys or press the ▶︎ (icon at the top of the IDE).
-3. 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
