@@ -19,11 +19,16 @@ In this project I create a awesome side bar menu for using in my future projects
 ![GitHub](https://img.shields.io/github/issues/PaoloProdossimoLopes/swift-sidebar-menu-example?style=flat-square)
 
 
+
+
 <!-- ACTIONS -->
 ## 🔎  ACTIONS
 [REPORT ISSUE](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/issues)
 
 [REQUEST FEATURE](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/pulls)
+
+
+
 
 <!-- Index -->
 ## 🔢  INDEX 
@@ -82,10 +87,11 @@ So that you can run the project follow this steps:
 
 - [x] Add readme
 - [x] Add license
-- [ ] Add contact infos
-    - [ ] Email
-    - [ ] LinkedIn
-    - [ ] Instagram
+- [X] Add contact infos
+    - [X] Email
+    - [X] LinkedIn
+    - [X] Instagram
+- [ ] Complete usage section
 - [ ] Add project
 
 See the [open issues](https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example/issues) for a full list of proposed features (and known issues).
@@ -123,5 +129,9 @@ The MIT license was used in this project.
 
 <!-- CONTACT -->
 ## ✉️  CONTACT <a name="contact"></a>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)<br/>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)<br/>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)<br/>
+[![Medium](https://img.shields.io/badge/-medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@pprodossimo)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
